@@ -1,0 +1,20 @@
+- CT BuildFest 2.0 is a 30-hour hackathon on 30-31 October 2026 at CT Group of Institutions, Maqsudan, Jalandhar.
+- There are 48 problem statements across AI, Cyber Security, Smart Education, IoT/Robotics, and Sustainability.
+- Each team must have 3-6 members.
+- Each team must select one problem statement ID.
+- The selected problem statement cannot be changed after physical registration.
+- Projects must be developed during the hackathon; pre-built projects are not allowed.
+- Teams must bring their own laptops, chargers, devices, hardware, and components.
+- Open-source libraries, datasets, and AI tools are allowed but must be credited.
+- Submission requires project code, a working demo, short documentation, and a PPT.
+- Maintain a GitHub repository or the provided submission format.
+- AI and open-source usage must be mentioned in the README, code, PPT, and demo credits.
+- Cyber Security projects must be defensive and tested only on permitted systems.
+- Hardware projects must be assembled and developed during the hackathon.
+- Evaluation includes problem understanding, innovation, technical implementation, impact, demo, ethics, privacy, and safety.
+- Registration deadline listed in the rulebook: 22 October 2026.
+- Coding officially starts at 11:00 AM on 30 October 2026.
+- The final problem statement document contains some formatting issues: CTBF-SE-08 is duplicated, CTBF-SE-12 is missing its detailed heading, and some AI IDs contain an extra space.
+- link.txt contains https://thecodeindustrys.duckdns.org/
+- The link is not explained in the PDFs and currently cannot be opened because the domain does not resolve.
+- Do not submit personal or team information through the link until the organizers confirm that it is official.
